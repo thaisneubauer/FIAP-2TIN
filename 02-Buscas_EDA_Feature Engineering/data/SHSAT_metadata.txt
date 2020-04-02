@@ -1,0 +1,161 @@
+Adjusted Grade
+New?
+Other Location Code in LCGMS
+School Name
+SED CodeState Education Department
+Location Code
+District
+Latitude
+Longitude
+Address (Full)
+City
+Zip
+GradesThe range of grade levels in this school
+Grade LowLowest grade level in this school
+Grade HighHighest grade level in this school
+Community School?
+Economic Need Index(%temp housing) + (% HRA eligible *0.5) + (% free lunch eligible *0.5). The higher the index, the higher the need
+School Income Estimate
+Percent ELLELL = English Language Learners
+Percent Asian
+Percent Black
+Percent Hispanic
+Percent Black / Hispanic
+Percent White
+Student Attendance Ratetotal number of days attended by all students / total number of days on register for all students
+Percent of Students Chronically AbsentMissing 10% of school days - or 18 days+ per year in a 180-day school year
+Rigorous Instruction %How well the curriculum and instruction engage students, build critical-thinking skills, and are aligned to the Common Core
+Rigorous Instruction RatingHow well the curriculum and instruction engage students, build critical-thinking skills, and are aligned to the Common Core
+Collaborative Teachers %How well teachers participate in opportunities to develop, grow, and contribute to the continuous improvement of the school community
+Collaborative Teachers RatingHow well teachers participate in opportunities to develop, grow, and contribute to the continuous improvement of the school community
+Supportive Environment %How well the school establishes a culture where students feel safe, challenged to grow, and supported to meet high expectations
+Supportive Environment RatingHow well the school establishes a culture where students feel safe, challenged to grow, and supported to meet high expectations
+Effective School Leadership %How well school leadership inspires the school community with a clear instructional vision and effectively distributes leadership to realize this vision
+Effective School Leadership RatingHow well school leadership inspires the school community with a clear instructional vision and effectively distributes leadership to realize this vision
+Strong Family-Community Ties %How well the school forms effective partnerships with families to improve the school
+Strong Family-Community Ties RatingHow well the school forms effective partnerships with families to improve the school
+Trust %Whether the relationships between administrators, educators, students, and families are based on trust and respect
+Trust RatingWhether the relationships between administrators, educators, students, and families are based on trust and respect
+Student Achievement RatingWeighted Average Score + the Closing the Achievement Gap Additional Points - 4: Exceeding Target, 3: Meeting Target, 2: Approaching Target, 1: Not Meeting Target
+Average ELA ProficiencyELA = English Language Arts Performance Levels = 1 (insufficient), 2 (partial but insufficient), 3 (sufficient), and 4 (more than sufficient) - reflect the extent to which students demonstrate the level of understanding expected at their grade level, based on the New York State P-12 Common Core Learning Standards
+Average Math Proficiency
+Grade 3 ELA - All Students TestedNo. of students tested for ELA in 3rd grade
+Grade 3 ELA 4s - All StudentsNo. of students in 3rd grade who scored a 4 in ELA
+Grade 3 ELA 4s - American Indian or Alaska NativeNo. of students in 3rd grade with this particular background who scored a 4 in ELA
+Grade 3 ELA 4s - Black or African AmericanNo. of students in 3rd grade with this particular background who scored a 4 in ELA
+Grade 3 ELA 4s - Hispanic or LatinoNo. of students in 3rd grade with this particular background who scored a 4 in ELA
+Grade 3 ELA 4s - Asian or Pacific IslanderNo. of students in 3rd grade with this particular background who scored a 4 in ELA
+Grade 3 ELA 4s - WhiteNo. of students in 3rd grade with this particular background who scored a 4 in ELA
+Grade 3 ELA 4s - MultiracialNo. of students in 3rd grade with this particular background who scored a 4 in ELA
+Grade 3 ELA 4s - Limited English ProficientNo. of students in 3rd grade with this particular background who scored a 4 in ELA
+Grade 3 ELA 4s - Economically DisadvantagedNo. of students in 3rd grade with this particular background who scored a 4 in ELA
+Grade 3 Math - All Students testedNo. of students in 3rd grade tested for Math
+Grade 3 Math 4s - All StudentsNo. of students in 3rd grade who scored a 4 in math
+Grade 3 Math 4s - American Indian or Alaska NativeNo. of students in 3rd grade with this particular background who scored a 4 in math
+Grade 3 Math 4s - Black or African AmericanNo. of students in 3rd grade with this particular background who scored a 4 in math
+Grade 3 Math 4s - Hispanic or LatinoNo. of students in 3rd grade with this particular background who scored a 4 in math
+Grade 3 Math 4s - Asian or Pacific IslanderNo. of students in 3rd grade with this particular background who scored a 4 in math
+Grade 3 Math 4s - WhiteNo. of students in 3rd grade with this particular background who scored a 4 in math
+Grade 3 Math 4s - MultiracialNo. of students in 3rd grade with this particular background who scored a 4 in math
+Grade 3 Math 4s - Limited English ProficientNo. of students in 3rd grade with this particular background who scored a 4 in math
+Grade 3 Math 4s - Economically DisadvantagedNo. of students in 3rd grade with this particular background who scored a 4 in math
+Grade 4 ELA - All Students TestedNo. of students tested for ELA in 4th grade
+Grade 4 ELA 4s - All StudentsNo. of students in 4th grade who scored a 4 in ELA
+Grade 4 ELA 4s - American Indian or Alaska NativeNo. of students in 4th grade with this particular background who scored a 4 in ELA
+Grade 4 ELA 4s - Black or African AmericanNo. of students in 4th grade with this particular background who scored a 4 in ELA
+Grade 4 ELA 4s - Hispanic or LatinoNo. of students in 4th grade with this particular background who scored a 4 in ELA
+Grade 4 ELA 4s - Asian or Pacific IslanderNo. of students in 4th grade with this particular background who scored a 4 in ELA
+Grade 4 ELA 4s - WhiteNo. of students in 4th grade with this particular background who scored a 4 in ELA
+Grade 4 ELA 4s - MultiracialNo. of students in 4th grade with this particular background who scored a 4 in ELA
+Grade 4 ELA 4s - Limited English ProficientNo. of students in 4th grade with this particular background who scored a 4 in ELA
+Grade 4 ELA 4s - Economically DisadvantagedNo. of students in 4th grade with this particular background who scored a 4 in ELA
+Grade 4 Math - All Students TestedNo. of students in 4th grade tested for Math
+Grade 4 Math 4s - All StudentsNo. of students in 4th grade who scored a 4 in math
+Grade 4 Math 4s - American Indian or Alaska NativeNo. of students in 4th grade with this particular background who scored a 4 in math
+Grade 4 Math 4s - Black or African AmericanNo. of students in 4th grade with this particular background who scored a 4 in math
+Grade 4 Math 4s - Hispanic or LatinoNo. of students in 4th grade with this particular background who scored a 4 in math
+Grade 4 Math 4s - Asian or Pacific IslanderNo. of students in 4th grade with this particular background who scored a 4 in math
+Grade 4 Math 4s - WhiteNo. of students in 4th grade with this particular background who scored a 4 in math
+Grade 4 Math 4s - MultiracialNo. of students in 4th grade with this particular background who scored a 4 in math
+Grade 4 Math 4s - Limited English ProficientNo. of students in 4th grade with this particular background who scored a 4 in math
+Grade 4 Math 4s - Economically DisadvantagedNo. of students in 4th grade with this particular background who scored a 4 in math
+Grade 5 ELA - All Students TestedNo. of students tested for ELA in 5th grade
+Grade 5 ELA 4s - All StudentsNo. of students in 5th grade who scored a 4 in ELA
+Grade 5 ELA 4s - American Indian or Alaska NativeNo. of students in 5th grade with this particular background who scored a 4 in ELA
+Grade 5 ELA 4s - Black or African AmericanNo. of students in 5th grade with this particular background who scored a 4 in ELA
+Grade 5 ELA 4s - Hispanic or LatinoNo. of students in 5th grade with this particular background who scored a 4 in ELA
+Grade 5 ELA 4s - Asian or Pacific IslanderNo. of students in 5th grade with this particular background who scored a 4 in ELA
+Grade 5 ELA 4s - WhiteNo. of students in 5th grade with this particular background who scored a 4 in ELA
+Grade 5 ELA 4s - MultiracialNo. of students in 5th grade with this particular background who scored a 4 in ELA
+Grade 5 ELA 4s - Limited English ProficientNo. of students in 5th grade with this particular background who scored a 4 in ELA
+Grade 5 ELA 4s - Economically DisadvantagedNo. of students in 5th grade with this particular background who scored a 4 in ELA
+Grade 5 Math - All Students TestedNo. of students in 5th grade tested for Math
+Grade 5 Math 4s - All StudentsNo. of students in 5th grade who scored a 4 in math
+Grade 5 Math 4s - American Indian or Alaska NativeNo. of students in 5th grade with this particular background who scored a 4 in math
+Grade 5 Math 4s - Black or African AmericanNo. of students in 5th grade with this particular background who scored a 4 in math
+Grade 5 Math 4s - Hispanic or LatinoNo. of students in 5th grade with this particular background who scored a 4 in math
+Grade 5 Math 4s - Asian or Pacific IslanderNo. of students in 5th grade with this particular background who scored a 4 in math
+Grade 5 Math 4s - WhiteNo. of students in 5th grade with this particular background who scored a 4 in math
+Grade 5 Math 4s - MultiracialNo. of students in 5th grade with this particular background who scored a 4 in math
+Grade 5 Math 4s - Limited English ProficientNo. of students in 5th grade with this particular background who scored a 4 in math
+Grade 5 Math 4s - Economically DisadvantagedNo. of students in 5th grade with this particular background who scored a 4 in math
+Grade 6 ELA - All Students TestedNo. of students tested for ELA in 6th grade
+Grade 6 ELA 4s - All StudentsNo. of students in 6th grade who scored a 4 in ELA
+Grade 6 ELA 4s - American Indian or Alaska NativeNo. of students in 6th grade with this particular background who scored a 4 in ELA
+Grade 6 ELA 4s - Black or African AmericanNo. of students in 6th grade with this particular background who scored a 4 in ELA
+Grade 6 ELA 4s - Hispanic or LatinoNo. of students in 6th grade with this particular background who scored a 4 in ELA
+Grade 6 ELA 4s - Asian or Pacific IslanderNo. of students in 6th grade with this particular background who scored a 4 in ELA
+Grade 6 ELA 4s - WhiteNo. of students in 6th grade with this particular background who scored a 4 in ELA
+Grade 6 ELA 4s - MultiracialNo. of students in 6th grade with this particular background who scored a 4 in ELA
+Grade 6 ELA 4s - Limited English ProficientNo. of students in 6th grade with this particular background who scored a 4 in ELA
+Grade 6 ELA 4s - Economically DisadvantagedNo. of students in 6th grade with this particular background who scored a 4 in ELA
+Grade 6 Math - All Students TestedNo. of students in 6th grade tested for Math
+Grade 6 Math 4s - All StudentsNo. of students in 6th grade who scored a 4 in math
+Grade 6 Math 4s - American Indian or Alaska NativeNo. of students in 6th grade with this particular background who scored a 4 in math
+Grade 6 Math 4s - Black or African AmericanNo. of students in 6th grade with this particular background who scored a 4 in math
+Grade 6 Math 4s - Hispanic or LatinoNo. of students in 6th grade with this particular background who scored a 4 in math
+Grade 6 Math 4s - Asian or Pacific IslanderNo. of students in 6th grade with this particular background who scored a 4 in math
+Grade 6 Math 4s - WhiteNo. of students in 6th grade with this particular background who scored a 4 in math
+Grade 6 Math 4s - MultiracialNo. of students in 6th grade with this particular background who scored a 4 in math
+Grade 6 Math 4s - Limited English ProficientNo. of students in 6th grade with this particular background who scored a 4 in math
+Grade 6 Math 4s - Economically DisadvantagedNo. of students in 6th grade with this particular background who scored a 4 in math
+Grade 7 ELA - All Students TestedNo. of students tested for ELA in 7th grade
+Grade 7 ELA 4s - All StudentsNo. of students in 7th grade who scored a 4 in ELA
+Grade 7 ELA 4s - American Indian or Alaska NativeNo. of students in 7th grade with this particular background who scored a 4 in ELA
+Grade 7 ELA 4s - Black or African AmericanNo. of students in 7th grade with this particular background who scored a 4 in ELA
+Grade 7 ELA 4s - Hispanic or LatinoNo. of students in 7th grade with this particular background who scored a 4 in ELA
+Grade 7 ELA 4s - Asian or Pacific IslanderNo. of students in 7th grade with this particular background who scored a 4 in ELA
+Grade 7 ELA 4s - WhiteNo. of students in 7th grade with this particular background who scored a 4 in ELA
+Grade 7 ELA 4s - MultiracialNo. of students in 7th grade with this particular background who scored a 4 in ELA
+Grade 7 ELA 4s - Limited English ProficientNo. of students in 7th grade with this particular background who scored a 4 in ELA
+Grade 7 ELA 4s - Economically DisadvantagedNo. of students in 7th grade with this particular background who scored a 4 in ELA
+Grade 7 Math - All Students TestedNo. of students in 7th grade tested for Math
+Grade 7 Math 4s - All StudentsNo. of students in 7th grade who scored a 4 in math
+Grade 7 Math 4s - American Indian or Alaska NativeNo. of students in 7th grade with this particular background who scored a 4 in math
+Grade 7 Math 4s - Black or African AmericanNo. of students in 7th grade with this particular background who scored a 4 in math
+Grade 7 Math 4s - Hispanic or LatinoNo. of students in 7th grade with this particular background who scored a 4 in math
+Grade 7 Math 4s - Asian or Pacific IslanderNo. of students in 7th grade with this particular background who scored a 4 in math
+Grade 7 Math 4s - WhiteNo. of students in 7th grade with this particular background who scored a 4 in math
+Grade 7 Math 4s - MultiracialNo. of students in 7th grade with this particular background who scored a 4 in math
+Grade 7 Math 4s - Limited English ProficientNo. of students in 7th grade with this particular background who scored a 4 in math
+Grade 7 Math 4s - Economically DisadvantagedNo. of students in 7th grade with this particular background who scored a 4 in math
+Grade 8 ELA - All Students TestedNo. of students tested for ELA in 8th grade
+Grade 8 ELA 4s - All StudentsNo. of students in 8th grade who scored a 4 in ELA
+Grade 8 ELA 4s - American Indian or Alaska NativeNo. of students in 8th grade with this particular background who scored a 4 in ELA
+Grade 8 ELA 4s - Black or African AmericanNo. of students in 8th grade with this particular background who scored a 4 in ELA
+Grade 8 ELA 4s - Hispanic or LatinoNo. of students in 8th grade with this particular background who scored a 4 in ELA
+Grade 8 ELA 4s - Asian or Pacific IslanderNo. of students in 8th grade with this particular background who scored a 4 in ELA
+Grade 8 ELA 4s - WhiteNo. of students in 8th grade with this particular background who scored a 4 in ELA
+Grade 8 ELA 4s - MultiracialNo. of students in 8th grade with this particular background who scored a 4 in ELA
+Grade 8 ELA 4s - Limited English ProficientNo. of students in 8th grade with this particular background who scored a 4 in ELA
+Grade 8 ELA 4s - Economically DisadvantagedNo. of students in 8th grade with this particular background who scored a 4 in ELA
+Grade 8 Math - All Students TestedNo. of students in 8th grade tested for Math
+Grade 8 Math 4s - All StudentsNo. of students in 8th grade who scored a 4 in math
+Grade 8 Math 4s - American Indian or Alaska NativeNo. of students in 8th grade with this particular background who scored a 4 in math
+Grade 8 Math 4s - Black or African AmericanNo. of students in 8th grade with this particular background who scored a 4 in math
+Grade 8 Math 4s - Hispanic or LatinoNo. of students in 8th grade with this particular background who scored a 4 in math
+Grade 8 Math 4s - Asian or Pacific IslanderNo. of students in 8th grade with this particular background who scored a 4 in math
+Grade 8 Math 4s - WhiteNo. of students in 8th grade with this particular background who scored a 4 in math
+Grade 8 Math 4s - MultiracialNo. of students in 8th grade with this particular background who scored a 4 in math
+Grade 8 Math 4s - Limited English ProficientNo. of students in 8th grade with this particular background who scored a 4 in math
+Grade 8 Math 4s - Economically DisadvantagedNo. of students in 8th grade with this particular background who scored a 4 in math
